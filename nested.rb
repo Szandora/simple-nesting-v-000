@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+programmer_hash.delete(alan_kay, dennis_ritchie)
 
 end
 
